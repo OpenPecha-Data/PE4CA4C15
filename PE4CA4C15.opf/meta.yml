@@ -1,0 +1,30 @@
+id: PE4CA4C15
+initial_creation_type: input
+source_metadata:
+  title: Replies to various doctrinal questions and polemics (block print), colophon
+    excerpt
+  author: ཀརྨ་འཕྲིན་ལས་པ།
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-07-23); revision in process, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:བློ་བཟང་རྒྱལ་མཚན། (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:བློ་བཟང་རྒྱལ་མཚན། (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/4888
+  bases:
+    f144:
+      title: Replies to various doctrinal questions and polemics (block print), colophon
+        excerpt
+      order: 1
+      base_file: f144.txt
+created_at: '2022-04-15T18:45:12.463318'
+last_modified_at: '2022-04-15T18:45:12.463324'
+quality: null
